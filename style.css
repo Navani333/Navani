@@ -1,0 +1,202 @@
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: system-ui;
+    
+
+}
+   
+    
+
+.br{
+    
+    background-color: #b8d8e7;
+    text-align: left;
+    padding: 30px; 
+    width:1000px;
+    height:345px ;
+   margin-left: 250px;
+ margin-top: -10px;
+   padding-bottom: 10px;
+   
+    
+}
+img{  
+    height: 250px;  
+    width: 250px; 
+    border-radius: 300%; 
+
+  
+    }  
+   #right {    
+    text-align: right;  
+    }  
+    #center {    
+        text-align: center;  
+        }  
+    
+
+
+
+
+/* .pic{
+    height: 250px;
+    width:260px;
+    border-radius: 300%;
+    padding-bottom: 30px;
+    padding-right: 40%;
+    padding-left: 60%;
+    
+} */
+.p1{
+    color: rgb(54, 51, 51);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: -200px;
+    text-align: center;
+}
+.p2{
+    color: rgb(39, 38, 38);
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 10px;
+    text-align:center;
+}
+.box{
+    background-color: #e5e5e5;
+    text-align: center;
+    padding: 30px; 
+    width:1000px;
+    height:595px ;
+    margin-left: 250px;
+    margin-top: -100px;
+    
+}
+
+.Objective1{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 1px;
+    margin-top: 1px;
+    text-align: left;
+
+}
+.Objective2{
+    color: black;
+    font-size: 15px;
+    margin: 20px;
+    margin-top: 5px;
+    text-align: left;
+}
+
+
+.Experience{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 1px;
+    margin-top: 1px;
+    text-align: left;
+}
+.Experience1{
+    color: black;
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 1px;
+    text-align: left;
+}
+.Education{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 1px;
+    margin-top: 1px;
+    text-align: left;
+}
+.Education1{
+    color: black;
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 1px;
+    text-align: left;
+}
+.Strength{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 1px;
+    margin-top: 1px;
+    text-align: left;
+}
+.Strength1{
+    color: black;
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 1px;
+    text-align: left;
+}
+.Declaration{
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 1px;
+    margin-top: 1px;
+    text-align: left;  
+}
+.Declaraction1{
+    color: black;
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 1px;
+    text-align: left;
+}
+.skills{
+    color: black;
+    font-size: 15px;
+    
+    text-align: left;
+    margin-left: 1000px;
+    margin-top: -600px;
+}
+.skills1{
+    color: black;
+    font-size: 14px;
+    margin-right: 1px;
+    
+}
+.interests{
+    color: black;
+    font-size: 15px;
+    
+    text-align: right;
+    margin-right: 500px;
+    margin-top: -600px;
+}
+.interests1{
+    color: black;
+    font-size: 14px;
+    margin-right: 1px;
+}
+.Languages{
+ color: black;
+    font-size: 15px;
+    
+    text-align: left;
+}
+.Languages1{
+
+    color: black;
+    font-size: 14px;
+    margin-right: 1px;
+}
+Personal Detailss{
+    color: black;
+       font-size: 15px;
+       
+       text-align: right;
+}
